@@ -1,12 +1,16 @@
+
+#GameInsta
+
+![gameInsta Cover](https://github.com/gameInsta/client/blob/main/public/images/game%20insta%20logo.png)
+
+
 <br/>
 <p align="center">
 <a href="https://chain.link" target="_blank">
-<img src="https://raw.github.com/gameInsta/client/blob/main/public/images/game%20insta%20logo.png" width="225" alt="Chainlink Hardhat logo">
 </a>
 </p>
 <br/>
 
-#Seedblocks
 
  Implementation of the following 3 Chainlink features using the [Hardhat](https://hardhat.org/) development environment:
  - [Request & Receive data](https://docs.chain.link/docs/request-and-receive-data)
