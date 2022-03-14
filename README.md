@@ -1,6 +1,8 @@
 <br/>
 <p align="center">
 <a href="https://chain.link" target="_blank">
+![gameInsta Cover](https://github.com/gameInsta/client/blob/main/public/images/game%20insta%20logo.png)
+
 <img src="https://raw.githubusercontent.com/smartcontractkit/chainlink-hardhat-box/master/box-img-lg.png" width="225" alt="Chainlink Hardhat logo">
 </a>
 </p>
