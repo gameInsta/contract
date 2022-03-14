@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
 <a href="https://chain.link" target="_blank">
-<img src="https://.rawgithub.com/gameInsta/client/blob/main/public/images/game%20insta%20logo.png" width="225" alt="Chainlink Hardhat logo">
+<img src="https://raw.github.com/gameInsta/client/blob/main/public/images/game%20insta%20logo.png" width="225" alt="Chainlink Hardhat logo">
 </a>
 </p>
 <br/>
@@ -26,7 +26,9 @@ Set your `KOVAN_RPC_URL` [environment variable.](https://www.twilio.com/blog/201
 Set your `MUMBAI_RPC_URL` [environment variable](https://www.twilio.com/blog/2017/01/how-to-set-environment-variables.html). You can get one from the [Matic docs](https://docs.matic.network/docs/develop/network-details/network). You'll also need to set the variable `PRIVATE_KEY` which is your private key from your wallet, ie MetaMask. This is needed for deploying contracts to public networks. You can obtain testnet MATIC and LINK via the [MATIC Faucet](https://faucet.matic.network/)
 
 ### Setting Environment Variables
-You can set these in your `.env` file if you're unfamiliar with how setting environment variables work. Check out our [.env example](https://github.com/smartcontractkit/hardhat-starter-kit/blob/main/.env.example). If you wish to use this method to set these variables, update the values in the .env.example file, and then rename it to '.env'
+You can set these in your `.env` file if you're unfamiliar with how setting environment variables work. Check out our [.env example](https://github.com/smartcontractkit/hardhat-starter-kit/blob/main/.env.example). If you wish to use this method to set these variables, update the values in the .env.example file, and then rename it to '.env'​
+5
+
 
 ![WARNING](https://via.placeholder.com/15/f03c15/000000?text=+) **WARNING** ![WARNING](https://via.placeholder.com/15/f03c15/000000?text=+)
 
